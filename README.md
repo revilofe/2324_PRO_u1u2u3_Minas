@@ -13,10 +13,11 @@
 
 #### Estructuras de Datos a Utilizar:
 
+Listas, conjuntos y matrices bidimensionales, diccionarios, etc. Por ejemplo:
+
 - **Matriz Bidimensional**: Representación del tablero.
 - **Listas**: Para almacenar las coordenadas de las minas, números y celdas vacías.
 - **Conjuntos**: Para llevar un registro de las celdas ya reveladas o marcadas.
-- **Diccionarios**: Para mapear cada celda a su estado (mina, número o vacía).
 
 #### Tareas para los Estudiantes:
 
